@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-intens",
+  "version": "1.0.0",
+  "description": "Проект о REST API!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Glazkov <zitrnik@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
